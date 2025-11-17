@@ -367,4 +367,4 @@ if simulate_live:
 # Footer / credits
 # -----------------------
 st.markdown("---")
-st.markdown("Made by **Mohd. Sibtain Raza** — Smart City Dashboard | IoT | Real-time Data Visualization")
+st.markdown("Made by **Mohd. Sibtain Raza || Rishav Kumar || Aman Singh Sengar** — Smart City Dashboard | IoT | Real-time Data Visualization")
